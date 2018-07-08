@@ -5,16 +5,12 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-    
+  
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jsahagun91/scraper.git"
   },
-  "keywords": [
-    "scrape!"
-  ],
   "author": "Jose Sahagun",
   "license": "ISC",
   "bugs": {
